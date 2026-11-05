@@ -1,0 +1,9 @@
+{
+  "name": "Arch Linux Codespace",
+  "build": {
+    "dockerfile": "../Dockerfile"
+  },
+  "settings": {},
+  "extensions": [],
+  "postCreateCommand": "echo 'Arch Linux environment ready!'"
+}
